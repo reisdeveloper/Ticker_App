@@ -2,5 +2,4 @@
 
 
 
-https://github.com/reisdeveloper/Ticker_App/assets/113706844/e3e11386-3d84-475c-b05a-071f2cd3fb13
 
