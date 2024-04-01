@@ -12,7 +12,7 @@ class App extends StatelessWidget {
         primaryColor: Colors.lightBlue,
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: PricePage(),
+      home: PriceScreen(),
     );
   }
 }
